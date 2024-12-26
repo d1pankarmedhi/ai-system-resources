@@ -11,6 +11,8 @@ A set of resources aimed at developing AI systems
 - [How Much Can CLIP Benefit Vision-and-Language Tasks?](https://arxiv.org/pdf/2107.06383)
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/pdf/2111.02387)
 - [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
+- [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334)
+
 
 ### Blogs
 - [Encode - Guide to Vision Language Models](https://encord.com/blog/vision-language-models-guide/)
