@@ -12,6 +12,7 @@ A set of resources aimed at developing AI systems
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://arxiv.org/pdf/2111.02387)
 - [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
 - [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334)
+- [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685)
 
 
 ### Blogs
