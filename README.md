@@ -4,6 +4,7 @@ A set of resources aimed at developing AI systems
 ## Vision Language Models
 
 ### Paper
+- [Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](https://arxiv.org/pdf/2210.09263)
 - [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)
 - [A Survey of Vision-Language Pre-Trained Models](https://arxiv.org/pdf/2202.10936)
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
