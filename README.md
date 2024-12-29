@@ -14,6 +14,7 @@ A set of resources aimed at developing AI systems
 - [Learning Transferable Visual Models From Natural Language Supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
 - [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334)
 - [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685)
+- [Masked Image Modeling: A Survey](https://arxiv.org/pdf/2408.06687)
 
 
 ### Blogs
