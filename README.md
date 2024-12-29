@@ -21,3 +21,4 @@ A set of resources aimed at developing AI systems
 - [Viso.ai - Vision Language Models](https://viso.ai/deep-learning/vision-language-models/#elementor-toc__heading-anchor-0)
 - [Nvidia - Vision Language Models](https://www.nvidia.com/en-us/glossary/vision-language-models/)
 - [HuggingFace - Vision Language Models Explained](https://huggingface.co/blog/vlms)
+- [A Dive into Vision-Language Models](https://huggingface.co/blog/vision_language_pretraining)
