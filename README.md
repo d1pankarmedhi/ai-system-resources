@@ -15,7 +15,11 @@ A set of resources aimed at developing AI systems
 - [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://arxiv.org/pdf/2102.03334)
 - [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/pdf/2304.00685)
 - [Masked Image Modeling: A Survey](https://arxiv.org/pdf/2408.06687)
-
+- [CoCa: Contrastive Captioners are Image-Text Foundation Models](https://arxiv.org/pdf/2205.01917)
+- [Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning](https://arxiv.org/pdf/2309.02591)
+- [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818?)
+- [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/pdf/2106.13884)
+- [Vision + Language Applications: A Survey](https://arxiv.org/pdf/2305.14598)
 
 ### Blogs
 - [Encode - Guide to Vision Language Models](https://encord.com/blog/vision-language-models-guide/)
