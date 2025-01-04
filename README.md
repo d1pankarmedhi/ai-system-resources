@@ -32,12 +32,14 @@ A set of resources aimed at developing AI systems
 - [HuggingFace - Vision Language Models Explained](https://huggingface.co/blog/vlms)
 - [A Dive into Vision-Language Models](https://huggingface.co/blog/vision_language_pretraining)
 
-## Search Engines
+## Search Systems
 ### Papers
-
+- [Comparative Study of Semantic and Keyword Based Search Engines](https://www.astesj.com/publications/ASTESJ_050114.pdf)
 
 ### Articles-Blogs
 - [How to deliver the best search results: inside a full text search engine](https://www.meilisearch.com/blog/how-full-text-search-engines-work)
 - [What is Full-Text Search and How Does it Work?](https://www.mongodb.com/resources/basics/full-text-search)
 - [Keyword Searching Algorithms For Search Engines](https://www.geeksforgeeks.org/keyword-searching-algorithms-for-search-engines/)
+- [What is Semantic Search?](https://www.geeksforgeeks.org/what-is-semantic-search/)
+- 
 
