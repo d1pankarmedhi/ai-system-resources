@@ -1,9 +1,13 @@
 # AI System Resources
 A set of resources aimed at developing AI systems
 
-## Vision Language Models
+# Table of Contents
+- [Vision Language Models](#vision-language-models)
+- [Search Engines](#search-engines)
 
-### Paper
+
+## Vision Language Models
+### Papers
 - [Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](https://arxiv.org/pdf/2210.09263)
 - [An Introduction to Vision-Language Modeling](https://arxiv.org/pdf/2405.17247)
 - [A Survey of Vision-Language Pre-Trained Models](https://arxiv.org/pdf/2202.10936)
@@ -21,9 +25,19 @@ A set of resources aimed at developing AI systems
 - [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/pdf/2106.13884)
 - [Vision + Language Applications: A Survey](https://arxiv.org/pdf/2305.14598)
 
-### Blogs
+### Articles-Blogs
 - [Encode - Guide to Vision Language Models](https://encord.com/blog/vision-language-models-guide/)
 - [Viso.ai - Vision Language Models](https://viso.ai/deep-learning/vision-language-models/#elementor-toc__heading-anchor-0)
 - [Nvidia - Vision Language Models](https://www.nvidia.com/en-us/glossary/vision-language-models/)
 - [HuggingFace - Vision Language Models Explained](https://huggingface.co/blog/vlms)
 - [A Dive into Vision-Language Models](https://huggingface.co/blog/vision_language_pretraining)
+
+## Search Engines
+### Papers
+
+
+### Articles-Blogs
+- [How to deliver the best search results: inside a full text search engine](https://www.meilisearch.com/blog/how-full-text-search-engines-work)
+- [What is Full-Text Search and How Does it Work?](https://www.mongodb.com/resources/basics/full-text-search)
+- [Keyword Searching Algorithms For Search Engines](https://www.geeksforgeeks.org/keyword-searching-algorithms-for-search-engines/)
+
