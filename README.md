@@ -43,5 +43,5 @@ A set of resources aimed at developing AI systems
 - [What is Full-Text Search and How Does it Work?](https://www.mongodb.com/resources/basics/full-text-search)
 - [Keyword Searching Algorithms For Search Engines](https://www.geeksforgeeks.org/keyword-searching-algorithms-for-search-engines/)
 - [What is Semantic Search?](https://www.geeksforgeeks.org/what-is-semantic-search/)
-- 
+- [An Introduction to Knowledge Graphs](https://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)
 
