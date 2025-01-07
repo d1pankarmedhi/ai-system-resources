@@ -37,6 +37,7 @@ A set of resources aimed at developing AI systems
 - [Comparative Study of Semantic and Keyword Based Search Engines](https://www.astesj.com/publications/ASTESJ_050114.pdf)
 - [EVALUATION OF SEMANTIC SEARCH AND ITS ROLE IN RETRIEVED-AUGMENTED-GENERATION (RAG) FOR ARABIC LANGUAGE](https://arxiv.org/pdf/2403.18350v2)
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://fq.pkwyx.com/default/https/aclanthology.org/D19-1410.pdf)
+- [Latent semantic analysis](https://sites.socsci.uci.edu/~lpearl/courses/readings/Evangelopoulos2013_LatentSemAnalysis.pdf)
 
 ### Articles-Blogs
 - [How to deliver the best search results: inside a full text search engine](https://www.meilisearch.com/blog/how-full-text-search-engines-work)
