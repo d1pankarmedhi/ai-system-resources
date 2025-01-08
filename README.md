@@ -41,6 +41,7 @@ A set of resources aimed at developing AI systems
 - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://fq.pkwyx.com/default/https/aclanthology.org/D19-1410.pdf)
 - [Latent semantic analysis](https://sites.socsci.uci.edu/~lpearl/courses/readings/Evangelopoulos2013_LatentSemAnalysis.pdf)
 - [Vision-Language Models Learn Super Images for Efficient Partially Relevant Video Retrieval](https://arxiv.org/pdf/2312.00414)
+- [Specification-Driven Video Search via Foundation Models and Formal Verification](https://arxiv.org/pdf/2309.10171)
 
 ### Articles-Blogs
 - [How to deliver the best search results: inside a full text search engine](https://www.meilisearch.com/blog/how-full-text-search-engines-work)
