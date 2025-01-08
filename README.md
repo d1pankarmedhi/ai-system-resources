@@ -24,7 +24,9 @@ A set of resources aimed at developing AI systems
 - [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818?)
 - [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/pdf/2106.13884)
 - [Vision + Language Applications: A Survey](https://arxiv.org/pdf/2305.14598)
+- [Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines](https://arxiv.org/pdf/2410.21220)
 
+  
 ### Articles-Blogs
 - [Encode - Guide to Vision Language Models](https://encord.com/blog/vision-language-models-guide/)
 - [Viso.ai - Vision Language Models](https://viso.ai/deep-learning/vision-language-models/#elementor-toc__heading-anchor-0)
