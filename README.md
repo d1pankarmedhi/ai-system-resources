@@ -27,12 +27,6 @@ A set of resources aimed at developing AI systems
 - [Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines](https://arxiv.org/pdf/2410.21220)
 - [Image Retrieval on Real-life Images with Pre-trained Vision-and-Language Models](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Image_Retrieval_on_Real-Life_Images_With_Pre-Trained_Vision-and-Language_Models_ICCV_2021_paper.pdf) 
   
-### Articles-Blogs
-- [Encode - Guide to Vision Language Models](https://encord.com/blog/vision-language-models-guide/)
-- [Viso.ai - Vision Language Models](https://viso.ai/deep-learning/vision-language-models/#elementor-toc__heading-anchor-0)
-- [Nvidia - Vision Language Models](https://www.nvidia.com/en-us/glossary/vision-language-models/)
-- [HuggingFace - Vision Language Models Explained](https://huggingface.co/blog/vlms)
-- [A Dive into Vision-Language Models](https://huggingface.co/blog/vision_language_pretraining)
 
 ## Search Systems
 ### Papers
@@ -42,11 +36,10 @@ A set of resources aimed at developing AI systems
 - [Latent semantic analysis](https://sites.socsci.uci.edu/~lpearl/courses/readings/Evangelopoulos2013_LatentSemAnalysis.pdf)
 - [Vision-Language Models Learn Super Images for Efficient Partially Relevant Video Retrieval](https://arxiv.org/pdf/2312.00414)
 - [Specification-Driven Video Search via Foundation Models and Formal Verification](https://arxiv.org/pdf/2309.10171)
+- [Vision-Language Models Learn Super Images for Efficient Partially Relevant Video Retrieval](https://arxiv.org/pdf/2408.03940)
+- [Zero-Shot Video Moment Retrieval From Frozen Vision-Language Models](https://openaccess.thecvf.com/content/WACV2024/papers/Luo_Zero-Shot_Video_Moment_Retrieval_From_Frozen_Vision-Language_Models_WACV_2024_paper.pdf)
+- [Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach](https://arxiv.org/pdf/2406.03411)
+- [Image-text Retrieval: A Survey on Recent Research and Development](https://arxiv.org/pdf/2203.14713)
+- [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://openaccess.thecvf.com/content_CVPR_2019/papers/Vo_Composing_Text_and_Image_for_Image_Retrieval_-_an_Empirical_CVPR_2019_paper.pdf)
 
-### Articles-Blogs
-- [How to deliver the best search results: inside a full text search engine](https://www.meilisearch.com/blog/how-full-text-search-engines-work)
-- [What is Full-Text Search and How Does it Work?](https://www.mongodb.com/resources/basics/full-text-search)
-- [Keyword Searching Algorithms For Search Engines](https://www.geeksforgeeks.org/keyword-searching-algorithms-for-search-engines/)
-- [What is Semantic Search?](https://www.geeksforgeeks.org/what-is-semantic-search/)
-- [An Introduction to Knowledge Graphs](https://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)
 
