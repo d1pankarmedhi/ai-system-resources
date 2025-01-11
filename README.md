@@ -41,5 +41,7 @@ A set of resources aimed at developing AI systems
 - [Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach](https://arxiv.org/pdf/2406.03411)
 - [Image-text Retrieval: A Survey on Recent Research and Development](https://arxiv.org/pdf/2203.14713)
 - [Composing Text and Image for Image Retrieval - An Empirical Odyssey](https://openaccess.thecvf.com/content_CVPR_2019/papers/Vo_Composing_Text_and_Image_for_Image_Retrieval_-_an_Empirical_CVPR_2019_paper.pdf)
+- [Visual Search at Alibaba](https://arxiv.org/pdf/2102.04674)
+- []()
 
 
