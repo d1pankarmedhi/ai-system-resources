@@ -26,7 +26,10 @@ A set of resources aimed at developing AI systems
 - [Vision + Language Applications: A Survey](https://arxiv.org/pdf/2305.14598)
 - [Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines](https://arxiv.org/pdf/2410.21220)
 - [Image Retrieval on Real-life Images with Pre-trained Vision-and-Language Models](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Image_Retrieval_on_Real-Life_Images_With_Pre-Trained_Vision-and-Language_Models_ICCV_2021_paper.pdf) 
-  
+
+### Resources
+- Awesome CBIR papers - [repo](https://github.com/willard-yuan/awesome-cbir-papers)
+- Awesome Semantic Search - [repo](https://github.com/Agrover112/awesome-semantic-search)
 
 ## Search Systems
 ### Papers
