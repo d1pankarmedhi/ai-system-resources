@@ -2,10 +2,16 @@
 A set of resources aimed at developing AI systems
 
 # Table of Contents
+- [Resources](#resources)
 - [Vision Language Models](#vision-language-models)
 - [Search Engines](#search-engines)
 
+## Resources
+- Awesome CBIR papers - [repo](https://github.com/willard-yuan/awesome-cbir-papers)
+- Awesome Semantic Search - [repo](https://github.com/Agrover112/awesome-semantic-search)
+- Awesome Vision and Language [repo](https://github.com/sangminwoo/awesome-vision-and-language)
 
+  
 ## Vision Language Models
 ### Papers
 - [Vision-Language Pre-training: Basics, Recent Advances, and Future Trends](https://arxiv.org/pdf/2210.09263)
@@ -27,9 +33,7 @@ A set of resources aimed at developing AI systems
 - [Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines](https://arxiv.org/pdf/2410.21220)
 - [Image Retrieval on Real-life Images with Pre-trained Vision-and-Language Models](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Image_Retrieval_on_Real-Life_Images_With_Pre-Trained_Vision-and-Language_Models_ICCV_2021_paper.pdf) 
 
-### Resources
-- Awesome CBIR papers - [repo](https://github.com/willard-yuan/awesome-cbir-papers)
-- Awesome Semantic Search - [repo](https://github.com/Agrover112/awesome-semantic-search)
+
 
 ## Search Systems
 ### Papers
