@@ -33,6 +33,7 @@ A set of resources aimed at developing AI systems
 - [Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines](https://arxiv.org/pdf/2410.21220)
 - [Image Retrieval on Real-life Images with Pre-trained Vision-and-Language Models](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Image_Retrieval_on_Real-Life_Images_With_Pre-Trained_Vision-and-Language_Models_ICCV_2021_paper.pdf) 
 - [Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines](https://arxiv.org/pdf/2410.21220)
+- [Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models](https://dl.acm.org/doi/pdf/10.1145/3652583.3658032)
 
 
 ## Search Systems
